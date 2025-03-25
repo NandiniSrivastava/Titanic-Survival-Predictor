@@ -99,6 +99,10 @@ http://localhost:8501
 ```
 
 ---
+Output:
+![image](https://github.com/user-attachments/assets/8008e4a2-3c43-407d-b466-f5e5da215792)
+![image](https://github.com/user-attachments/assets/687dd114-0e84-4b6a-908d-2d464f20ebda)
+
 
 ## 🎯 **Conclusion**
 This project demonstrates the deployment of a **machine learning model** using **Streamlit** and **Docker**. The model predicts Titanic survival outcomes based on user input, and the **Dockerized environment** ensures easy portability and deployment.
